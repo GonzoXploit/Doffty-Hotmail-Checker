@@ -1,0 +1,1 @@
+Hotmail mail access checker. Work for all Microsoft account, Outlook, MSN, Microsoft360, etc. If anyone can help me decompile and get the source so I can run it on Linix that would be appreciated. Compiled with Nuitka.
